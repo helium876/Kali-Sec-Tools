@@ -1,9 +1,3 @@
-# ****************** NOTE *********************#
-#		   	 GAVIN DID START THIS              #
-#		   BUT HIM NUH DE YA AGAIN			   #
-#		     SO HELIUM FINISH IT 			   #
-#	YOU CAN ADD TO IT AND MAKE IT BETTER TOO   #
-################################################
 spinner() {
     local i sp n
     sp='/-\|'
