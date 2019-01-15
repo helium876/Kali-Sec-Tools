@@ -18,7 +18,7 @@ chmod +x sectools.sh
 ./sectools.sh
 ```
 
-##Errors that may occur
+## Errors that may occur
 Run the following command if syntax errors occur.
 ```bash
 sed -i 's/\r// sectools.sh
