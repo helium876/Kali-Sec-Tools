@@ -1,4 +1,3 @@
-![Symptai](https://symptai.com/images/symptai_rgb_h.gif)
 # Kali Security Tools
 
 This is a script used to update and install tools needed for projects on commencement of fieldwork for new clients. 
